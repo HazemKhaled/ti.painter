@@ -1,0 +1,5 @@
+'WebView' : {
+	scalesPageToFit: true,
+	disableBounce: true,
+	url: WPATH('paint/index.html')
+}

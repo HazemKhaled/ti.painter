@@ -1,0 +1,13 @@
+{
+    "id": "ti.painter",
+    "name": "Titanium Painter",
+    "description": "Alloy widget wrapping the most powerful HTML5 Literally Canvas module for Titanium",
+    "author": "Hazem Khaled",
+    "version": "1.0.0",
+    "copyright": "Copyright (c) 2016 Hazem Khaled",
+    "license": "MIT",
+    "min-alloy-version": "1.0",
+    "min-titanium-version": "2.1",
+    "tags": "paint,canvas,literallycanvas,painter",
+    "platforms": "ios"
+}
